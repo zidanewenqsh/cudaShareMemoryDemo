@@ -1,3 +1,7 @@
+.idea/
+.cache/
+*build*/
+
 *.i
 *.ii
 *.gpu
